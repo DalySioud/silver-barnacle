@@ -1,0 +1,13 @@
+.carte{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+}
+.plusmoins{
+    display: flex;
+    margin: 5px;
+    align-items: center;
+}
+#delete{
+    margin: 5px;
+}
